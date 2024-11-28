@@ -19,27 +19,10 @@
 /****************/
 /* JOUW STYLING */
 /****************/
-
-@font-face {
-    font-family: NotoSans;
-    font-weight: normal;
-    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    font-family: 'Noto Sans';font-size: 22px;
 }
 
-nav {
-	font-family: NotoSans;
-	font-weight: normal;
-}
-
-h1 {
-	font-family: NotoSans;
-	font-weight: normal;
-}
-
-p {
-	font-family: NotoSans;
-	Font-weight: normal;
-}
 
 /* H1 class visually_hidden toevoegen voor screenreader */
 
