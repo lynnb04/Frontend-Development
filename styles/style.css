@@ -6,10 +6,6 @@
 }
 
 
-
-
-
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
@@ -20,12 +16,16 @@
 }
 
 
-
-
-
 /****************/
 /* JOUW STYLING */
 /****************/
 
-/* jouw code */
+@font-face {
+    font-family: NotoSans;
+    font-weight: normal;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+}
+
+
+/* H1 class visually_hidden toevoegen voor screenreader */
 
